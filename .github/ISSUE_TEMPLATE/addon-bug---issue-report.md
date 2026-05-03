@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: ADDON Bug / ISSUE report
 about: Create a report to help us improve
 title: ''
 labels: ''
