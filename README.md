@@ -5,6 +5,11 @@
 
 ---
 
+## Documentation
+
+Full user guide is available in the [GitHub Wiki](../../wiki).
+
+---
 ## Features
 
 - **Collision Physics** — Create and edit collision bodies (Box, Capsule, Sphere, ConvexMesh, TriangleMesh) for level geometry and props
@@ -75,12 +80,6 @@
 | Collision | `BLD_<name>.xml` → `BLD_<name>.bin` | `BLD_Gondian_Pump_A.xml` |
 | Spring | `HAIR_<name>_Spring.xml` → `.bin` | `HAIR_HUM_M_Wavy_Short_E_Spring.xml` |
 | Spring Base | `HAIR_<name>_Spring_Base.xml` → `.bin` | `HAIR_HUM_M_Wavy_Short_E_Spring_Base.xml` |
-
----
-
-## Documentation
-
-Full user guide is available in the [GitHub Wiki](../../wiki).
 
 ---
 
