@@ -34,7 +34,7 @@ Full user guide is available in the [GitHub Wiki](../../wiki).
 
 ## Installation
 
-1. Download the addon zip (https://github.com/pommelstrike/bg3_physx_xml_io/releases/tag/v2.2.0)
+1. Download the addon zip (https://github.com/pommelstrike/bg3_physx_xml_io/releases)
 2. Open Blender → **Edit → Preferences → Add-ons → Install…**
 3. Select the zip file and enable **Import-Export: pommelstrike BG3 Physics**
 4. Expand the addon preferences and set the path to `pomphysicstool.exe`
