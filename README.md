@@ -19,16 +19,7 @@ Full user guide is available in the [GitHub Wiki](../../wiki).
 - **Import & Export** — Full round-trip support for `BLD_*.xml` and `HAIR_*_Spring*.xml` files
 - **Cook to .bin** — Integrated `pomphysicstool.exe` pipeline for XML → binary conversion
 - ( `pomphysicstool.exe` requires NVIDIA.PhysX libraries dll)
-one of these for example: the Tools folder of Lslib / Moonglasses / Vanilla toolkit folder 
-```
-...\ExportTool-v1.20.x\Packed\Tools
 
-PhysXCommon_64.dll
-PhysXCooking_64.dll
-PhysXFoundation_64.dll
-PhysX_64.dll
-```
-- 
 - **Viewport Armature Linking** — Spring chain segments follow your rig in the viewport via Child Of constraints
 
 ---
