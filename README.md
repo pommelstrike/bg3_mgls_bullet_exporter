@@ -104,7 +104,11 @@ If this tool helps your BG3 modding work, consider supporting development:
 - **[Ko-fi](https://ko-fi.com/pommelstrike/)**
 
 ---
+## Special thanks to:
+
+SarahWeiii for the CoACD.
+This addon uses the coacd Python package (pip install coacd) as a dependency.
+Norbyte for the lslib 
 
 ## License
-
-This project is provided as-is for BG3 modding purposes.
+BSD-3-Clause.
