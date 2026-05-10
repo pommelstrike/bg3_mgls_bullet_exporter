@@ -12,16 +12,14 @@ Full user guide is available in the [GitHub Wiki](../../wiki).
 ---
 ## Features
 
-- **Collision Physics** — Create and edit collision bodies (Box, Capsule, Sphere, ConvexMesh, TriangleMesh) for level geometry and props
+- **Collision Physics** — Create and edit collision bodies (Box, Capsule, Sphere, ConvexMesh) for level geometry and props
 - **Spring Chain Physics** — Build and edit hair/cloth physics chains with D6 joints and spring drives
 - **One-Click Collider Generation** — Generate collision shapes from mesh selections with auto-fit bounding boxes
 - **Chain from Bones** — Auto-generate spring chains from selected armature bones
 - **Import & Export** — Full round-trip support for `BLD_*.xml` and `HAIR_*_Spring*.xml` files
 - **Cook to .bin** — Integrated `pomphysicstool.exe` pipeline for XML → binary conversion
 - ( `pomphysicstool.exe` requires NVIDIA.PhysX libraries dll)
-
 - **Viewport Armature Linking** — Spring chain segments follow your rig in the viewport via Child Of constraints
-
 ---
 
 ## Requirements
